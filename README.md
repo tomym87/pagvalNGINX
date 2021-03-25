@@ -1,0 +1,2 @@
+# pagvalNGINX
+SUBIRNGNIX
